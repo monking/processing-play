@@ -10,7 +10,7 @@
     "node"
   ],
   "license": "MIT",
-  "homepage": "https://sandbox.lovejoy.io/processing/",
+  "homepage": "https://sandbox.lovejoy.io/processing-play/",
   "private": true,
   "ignore": [
     "**/.*",
