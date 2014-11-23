@@ -1,0 +1,25 @@
+{
+  "name": "processing",
+  "version": "0.0.0",
+  "authors": [
+    "Christopher Lovejoy <c@lovejoy.io>"
+  ],
+  "description": "playing with processing.js",
+  "main": "app.js",
+  "moduleType": [
+    "node"
+  ],
+  "license": "MIT",
+  "homepage": "https://sandbox.lovejoy.io/processing/",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "Processing.js": "~1.4.8"
+  }
+}
